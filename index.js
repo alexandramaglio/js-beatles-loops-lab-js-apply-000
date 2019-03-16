@@ -16,5 +16,5 @@ johnLennonFacts = function(factarray) {
     excitedfacts[n] = factarray[n] + "!!!";
     n++;
   }
-  return factarray;
+  return excitedfacts;
 };
