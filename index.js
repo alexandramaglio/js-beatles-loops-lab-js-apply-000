@@ -6,7 +6,7 @@ theBeatlesPlay = function(musicians, instruments) {
     beatles[n] = musicians[n] + " plays " + instruments[n];
   }
   return beatles;
-};
+}
 
 
 johnLennonFacts = function(factarray) {
@@ -17,4 +17,4 @@ johnLennonFacts = function(factarray) {
     n++;
   }
   return excitedfacts;
-};
+}
