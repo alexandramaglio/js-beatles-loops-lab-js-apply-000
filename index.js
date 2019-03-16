@@ -12,7 +12,7 @@ theBeatlesPlay = function(musicians, instruments) {
 johnLennonFacts = function(factarray) {
   var n = 0;
   var excitedfacts = [];
-  while(n < factarray.length) {
+  while (n < factarray.length) {
     excitedfacts[n] = factarray[n] + "!!!";
     n++;
   }
